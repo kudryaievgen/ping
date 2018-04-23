@@ -9,7 +9,6 @@ if __name__ == "__main__":
     port = int(sys.argv[2])
     s = socket.socket()
     s.connect((host, port))
-    print("Connected")
     packet_count = 0
     print("Pinging " + host)
     while packet_count != 4:
