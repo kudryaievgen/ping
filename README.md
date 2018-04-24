@@ -1,7 +1,7 @@
 # ping
 Ping server and client
 
-Laucnh of server:
+Launch of server:
 
 server.py 8888
 ,where 8888 is a port number
