@@ -2,7 +2,7 @@ import struct
 import socket
 import time
 import sys
-
+import bug
 
 if __name__ == "__main__":
     host = sys.argv[1]
